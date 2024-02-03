@@ -318,7 +318,7 @@ function Premamkadhal() {
                                         <button onClick={togglePlayPause38} className=" rounded-full">
                                             {isPlaying38 ? <img src={pause} /> : <img src={play} />}
                                         </button></div>
-                                        <img src='https://www.pagalworld.online/GpE34Kg9Gq/112646/thumb-rockstar-2011-300.jpg' className='h-9 w-9 rounded' />
+                                        <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZOAVB6nUXziCREPoo7dDRDFjcVCgW64mY5A&usqp=CAU' className='h-9 w-9 rounded' />
                                         <div className='flex flex-col'>
                                             <a href='' className='text-m  text-white '> Kun Faaya Kun</a>
                                             <a href='' className='text-white text-sm opacity-60'>A.R. Rahman</a>
